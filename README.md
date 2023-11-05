@@ -26,11 +26,3 @@ The dataset that we will use is obtained from Kaggle. It contains data about tre
 * Matplotlib ( `pip install matplotlib` )
 * Seaborn ( `pip install seaborn` )
 * Wordcloud ( `pip install wordcloud` )
-
-
-<div align="center">
-Show some ❤ by starring the repo if you liked the analysis.
-</div>
-<div align="center">
-I'll be constantly updating the datasets and analysis. Thank You.
-</div>
